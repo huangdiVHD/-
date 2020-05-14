@@ -1,30 +1,29 @@
 <template>
   <div id="app">
-    
-    导航开始
-    <router-view/>
+    <navigation></navigation>
+    <router-view></router-view>
   </div>
 </template>
+<script>
+// @ is an alias to /src
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
+import navigation from "@/components/navigation.vue";
+export default {
+  name: "Home",
+  components: {
+    navigation
   }
+};
+</script>
+<style lang="scss">
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+*{
+margin: 0px;
+padding: 0px;
 }
 </style>

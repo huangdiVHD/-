@@ -5,8 +5,8 @@
         <img src="@/assets/componts/com-1.png" alt />
       </div>
       <ul class="navigation-2">
-        <li class="navigation-2a">首页</li>
-        <li class="navigation-2a">人员组成</li>
+        <router-link class="navigation-2a" to="/" tag="li">首页</router-link>
+        <router-link class="navigation-2a" to="/personnel" tag="li">人员组成</router-link>
         <li class="navigation-2a">活动介绍</li>
         <li class="navigation-2a">联系我们</li>
       </ul>

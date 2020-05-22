@@ -16,6 +16,15 @@
         <div class="swiper-button-next"></div>
         <!--右箭头。如果放置在swiper-container外面，需要自定义样式。-->
       </div>
+      <div class="home-introduce">
+        <div class="home-introduce-1">小酒馆</div>
+        <div class="home-introduce-2">
+          <div
+            class="home-introduce-2a"
+          >小酒馆,上古世界一直活跃到现在一个远征队,成员遍布各行各业,年龄各不相同,我们因为拥有共同的爱好的聚在一起,小酒馆,上古世界一直活跃到现在一个远征队,成员遍布各行各业,年龄各不相同,我们因为拥有共同的爱好的聚在一起,小酒馆,上古世界一直活跃到现在一个远征队,成员遍布各行各业,年龄各不相同,我们因为拥有共同的爱好的聚在一起,小酒馆,上古世界一直活跃到现在一个远征队,成员遍布各行各业,年龄各不相同,我们因为拥有共同的爱好的聚在一起</div>
+          <div class="home-introduce-2b">小酒馆,上古世界一直活跃到现在一个远征队,成员遍布各行各业,年龄各不相同,我们因为拥有共同的爱好的聚在一起,小酒馆,上古世界一直活跃到现在一个远征队,成员遍布各行各业,年龄各不相同,我们因为拥有共同的爱好的聚在一起,小酒馆,上古世界一直活跃到现在一个远征队,成员遍布各行各业,年龄各不相同,我们因为拥有共同的爱好的聚在一起,小酒馆,上古世界一直活跃到现在一个远征队,成员遍布各行各业,年龄各不相同,我们因为拥有共同的爱好的聚在一起在这个大家庭里,你会体会带久违的开心,你会为一起努力度过难关而兴奋</div>
+        </div>
+      </div>
       <div class="home-race">
         <div class="home-race-title">上古世纪种族</div>
         <div class="home-race-sw">
@@ -39,7 +48,7 @@
               </div>
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (2).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -56,7 +65,7 @@
             <swiper-slide class="home-race-sw2">
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (9).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -71,7 +80,7 @@
               </div>
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (10).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -88,7 +97,7 @@
             <swiper-slide class="home-race-sw2">
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (5).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -103,7 +112,7 @@
               </div>
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (6).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -120,7 +129,7 @@
             <swiper-slide class="home-race-sw2">
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (7).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -135,7 +144,7 @@
               </div>
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (8).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -152,7 +161,7 @@
             <swiper-slide class="home-race-sw2">
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (3).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -167,7 +176,7 @@
               </div>
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (4).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -184,7 +193,7 @@
             <swiper-slide class="home-race-sw2">
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (11).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -199,7 +208,7 @@
               </div>
               <div class="home-race-sw2a">
                 <img src="@/assets/home/home-3 (12).png" alt />
-                 <div class="home-race-sw2a1">
+                <div class="home-race-sw2a1">
                   <div class="home-race-sw2a1a">诺亚族</div>
                   <div class="home-race-sw2a1b">
                     继承诺伊女神遗志
@@ -309,6 +318,33 @@ export default {
         top: 50%;
         outline: none !important;
         --swiper-navigation-color: #ffffff; /* 单独设置按钮颜色 */
+      }
+    }
+    .home-introduce {
+      width: 1200px;
+      height: 300px;
+      margin: 50px auto 0;
+      .home-introduce-1 {
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+        font-size: 50px;
+      }
+      .home-introduce-2 {
+        width: 100%;
+        height: 200px;
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-between;
+        color: gray;
+        font-size: 20px;
+        .home-introduce-2a {
+          width: 40%;
+        }
+        .home-introduce-2b {
+          width: 40%;
+        }
       }
     }
     .home-race {
